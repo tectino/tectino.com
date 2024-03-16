@@ -1,24 +1,19 @@
 {
   "main": [
     {
+      "name": "whatsapp",
+      "icon": "fab fa-whatsapp",
+      "link": "https://wa.me/201148880537"
+    },
+    {
       "name": "facebook",
       "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/tec.tin0"
     },
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
-    },
-    {
-      "name": "github",
-      "icon": "fab fa-github",
-      "link": "https://www.github.com/"
-    },
-    {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://instagram.com/tec.tino/"
     }
   ]
 }
