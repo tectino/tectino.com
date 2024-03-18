@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Let's go Diving!"
-  content: "The Red Sea is an awesome place to dive."
+  title: "Let's go Diving together!"
+  content: "The Red Sea is an awesome place to dive. "
   image: "/images/banner.png"
   button:
     enable: true
